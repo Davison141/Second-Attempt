@@ -23,7 +23,7 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/Davison141/Second-Attempt.git)
 - Live Site URL: [Live Site](https://davison141.github.io/Second-Attempt/)
 
 ## Built with
