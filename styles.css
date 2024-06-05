@@ -17,11 +17,12 @@
  }
  .container {
     margin: auto;
-    padding: 0.71em;
+    padding: 0.72em;
     max-width: 12rem;
     background-color: hsl(0, 0%, 12%);
+    border-radius: 7px;
 }
-.img-con {
+.img-container {
     text-align: center;
 }
 img {
