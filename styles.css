@@ -66,6 +66,7 @@ img {
     color: black;
 }
 .author {
+    text-align: center;
     margin: 1rem;
     font-size: 0.4rem;
 }
