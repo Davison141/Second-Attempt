@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+ html {
+    display: table; margin: auto;
+    
+ }
+ html, body {
+    height: 100%;
+ }
+ body {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: "inter";
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+ }
+ .container {
+    margin: auto;
+    padding: 0.71em;
+    max-width: 12rem;
+    background-color: hsl(0, 0%, 12%);
+}
+.img-con {
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+}
+.name {
+    font-size: 0.98rem;
+    text-align: center;
+    margin: 0.32em;
+    font-weight: 700;
+}
+.place {
+    font-size: 0.6rem;
+    text-align: center; 
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+}
+.description {
+    text-align: center;
+    font-size: 0.6rem;
+    margin: 1.7em 0em 1.5em 0em;
+}
+.content {
+    text-align: center;
+}
+
+.content a {
+    display: block;
+    background-color: hsl(0, 0%, 20%);
+    border: 1px solid hsl(0, 0%, 20%);
+    border-radius: 5px;
+    padding: 7px 7px;
+    color: white;
+    text-decoration: none;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin-bottom: 1.1em;
+}
+.content a:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+.author {
+    margin: 1rem;
+    font-size: 0.4rem;
+}
+.author a {
+    color: hsl(54, 46%, 46%);
+    text-decoration: none;
+    font-weight: 600;
+}
