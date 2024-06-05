@@ -23,8 +23,8 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://davison141.github.io/Second-Attempt/)
 
 ## Built with
 
@@ -43,7 +43,7 @@ I'll definitely be focusing in on how to center and position elements better.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Davison Efosa](https://davison141.github.io/Second-Attempt/)
 - Frontend Mentor - [@Davison141](https://www.frontendmentor.io/profile/Davison141)
 
 ## Acknowledgments
